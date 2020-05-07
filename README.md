@@ -13,8 +13,11 @@ Linguagens:
 ## Getting Started
 
 Faça download do projeto com o git clone
+
 Abra o projeto com o Eclipse Java
+
 Dentro do Eclipse -> Help -> Eclipse Market Place -> baixe o plugin Window Builder
+
 Executar Application.java
 
 ## Built With
